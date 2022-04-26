@@ -1,0 +1,4 @@
+gunicorn
+djangorestframework
+instagrapi
+pillow
