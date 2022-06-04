@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'noyan_instagram_api.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'x1.settings')
 
 application = get_wsgi_application()
